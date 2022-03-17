@@ -152,7 +152,7 @@ Side button animation
   position: fixed;
   padding-top: 1rem;
   inset: 0;
-  opacity: 85%;
+  opacity: 90%;
   background-color: var(--clr-gray);
   z-index: 2;
   box-shadow: var(--shadow-gray-1);
